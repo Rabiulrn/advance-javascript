@@ -14,6 +14,9 @@ const numbers = [3, 4, 5, 6, 7, 8];
 // const square = element => element * element;
 // const square = x => x * x;
 
+////////map filter use korle array akare return kore dibe.
+////////alada kore array declair kore push kora lage na.
+
 // const result =  numbers.map(function(element){
 //     return element * element;
 // })
@@ -22,8 +25,8 @@ const numbers = [3, 4, 5, 6, 7, 8];
 
 // console.log(result);
 
-const bigger = numbers.filter( x => x < 3);
+const bigger = numbers.filter( x => x < 3);  ////chakni
 
-const isThere = numbers.find(x => x > 5);
+const isThere = numbers.find(x => x > 5);  ////es6 new.5 er cheye boro kichu paile sudhu oita diye dibe.not array
 
 console.log(isThere);
