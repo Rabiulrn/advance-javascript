@@ -4,6 +4,10 @@ const students = [
     {id: 41, name: 'Moyouri'},
     {id: 71, name: 'DeepJol'}
 ];
+// const name = [];
+// for(let i =0;i>students.length;i++){
+
+// }
 
 const names = students.map( s => s.name);
 const ids = students.map(s => s.id);
