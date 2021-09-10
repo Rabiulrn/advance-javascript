@@ -1,3 +1,4 @@
+//closure concept clear korte hobe
 function stopWatch(){
     let count = 0;
     return function(){

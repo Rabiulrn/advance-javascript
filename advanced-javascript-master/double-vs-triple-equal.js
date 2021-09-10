@@ -1,6 +1,6 @@
-const first = 0;     //1     //2
-const second = false; //true //"2"
-//0,false 1,true 2,"2" condition is true.type doesnt matter for ==.
+const first = 0;     //or//1     //2
+const second = false; //or//true //"2"
+//0,false        1,true          2,"2" condition is true.type doesnt matter for ==.
 if(first == second){
     console.log("condition is true");
 }
