@@ -12,9 +12,9 @@ function sum(first, second){
         mood = "cranky"
         //console.log(mood);
     }
-    console.log(day);
     let day = "friday"; ////akhane var use korleo undefine dekhabe,karon
                         ////sudhu variable pabe but value pabe na.
+    console.log(day);
                         
     
     return result;
